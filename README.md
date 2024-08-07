@@ -1,7 +1,7 @@
 # Swarm-Control
 
 > [!NOTE]
-> 任务要求详见[SYSU-HILAB/Swarm-Control-Course-Additional-Work](https://github.com/SYSU-HILAB/Swarm-Control-Course-Additional-Work)，实现方法详见[ZJU-FAST-Lab/Swarm-Formation](https://github.com/ZJU-FAST-Lab/Swarm-Formation)。
+> 任务要求详见[SYSU-HILAB/Swarm-Control-Course-Additional-Work](https://github.com/SYSU-HILAB/Swarm-Control-Course-Additional-Work)，实现方法详见[ZJU-FAST-Lab/Swarm-Formation](https://github.com/ZJU-FAST-Lab/Swarm-Formation)。本项目仅是对上述项目进行了些许修改。
 
 ## 实现要求
 
