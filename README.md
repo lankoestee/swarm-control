@@ -1,5 +1,8 @@
 # Swarm-Control
 
+> [!NOTE]
+> 任务要求详见[SYSU-HILAB/Swarm-Control-Course-Additional-Work](https://github.com/SYSU-HILAB/Swarm-Control-Course-Additional-Work)，实现方法详见[ZJU-FAST-Lab/Swarm-Formation](https://github.com/ZJU-FAST-Lab/Swarm-Formation)。
+
 ## 实现要求
 
 1. 可以使用不限数量的无人机组成编队。
